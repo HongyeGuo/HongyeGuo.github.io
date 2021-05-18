@@ -14,8 +14,11 @@
 
 ## Education
 
-- Ph.D. in Electrical Engineering, Tsinghua University, 2015/8 - 2020/6 <br/>
-- B.E. in Electrical Engineering, Tsinghua University, 2011/8 - 2015/7 <br/>
+- Ph.D. in Electrical Engineering, Tsinghua University, China, 2015/8 - 2020/6 <br/>
+  - Visiting Student, Illinois Institute of Technology, U.S., 2019/4 - 2019/9 <br/>
+  - Visiting Student, Stanford University, U.S., 2018/7 - 2018/9 <br/>
+- B.E. in Electrical Engineering, Tsinghua University, China, 2011/8 - 2015/7 <br/>
+  - Visiting Student, University of Victoria, Canada, 2014/6 - 2014/8 <br/>
 
 ## Publications
 ### International Journal Articles as First-Author 
