@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
 title: Hongye Guo
 author: Hongye Guo
-description: |
-    Post Doc. at Tsinghua University.
+description: "
+    Post Doc. at Tsinghua University.\n\
 
-    Beijing, China.
+    Beijing, China.\n\
 
-    hyguo@mail.tsinghua.edu.cn
-    
+    hyguo@mail.tsinghua.edu.cn"
+
 logo: pic.jpg
 
