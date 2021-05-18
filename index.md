@@ -14,8 +14,8 @@
 
 ## Education
 
-Ph.D. in Electrical Engineering, Tsinghua University, 2015/8 - 2020/6 <br/>
-B.E. in Electrical Engineering, Tsinghua University, 2011/8 - 2015/7 <br/>
+- Ph.D. in Electrical Engineering, Tsinghua University, 2015/8 - 2020/6 <br/>
+- B.E. in Electrical Engineering, Tsinghua University, 2011/8 - 2015/7 <br/>
 
 ## Publications
 ### International Journal Articles as First-Author 
