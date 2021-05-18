@@ -1,10 +1,12 @@
+# Personal Academic Homepage
+
 ## Research Interests
 
-- Power Markets 
+- **Power Markets** 
   - mechanism design
   - market simulation
   - equilibrium analysis  
-- Data-driven Analysis
+- **Data-driven Analysis**
   - bidding analysis
   - ASC analysis
   - load forecasting
