@@ -1,0 +1,260 @@
+<!--
+README (keep or delete):
+- File name: index.html (drop it into a GitHub Pages repo, e.g., username.github.io or username.github.io/repo)
+- Replace all TODO: placeholders with your info
+- Put your photo at /assets/profile.jpg (or update the src below)
+- Optional: add /assets/favicon.png
+- License: MIT — free to use/modify
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TODO: Your Name – Academic CV</title>
+  <meta name="description" content="TODO: Short academic bio and publication list of Your Name." />
+  <link rel="icon" href="assets/favicon.png" />
+
+  <!-- Minimal, dependency‑free CSS -->
+  <style>
+    :root{
+      --bg: #0b0c0f; --panel:#12141a; --text:#e6e6e6; --muted:#b4b6bd; --accent:#60a5fa; --border:#22252e;
+      --link:#93c5fd; --tag:#1f2937; --chip:#0f172a; --chip-text:#c7d2fe
+    }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#f7f7fb; --panel:#ffffff; --text:#1c1f24; --muted:#4b5563; --accent:#2563eb; --border:#e5e7eb; --link:#1d4ed8; --tag:#eef2ff; --chip:#e0e7ff; --chip-text:#1e3a8a }
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"}
+    a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
+    img{max-width:100%;height:auto;display:block}
+    .wrap{max-width:1000px;margin:0 auto;padding:24px}
+    header{display:grid;grid-template-columns:120px 1fr;gap:20px;align-items:center;margin:6px 0 20px}
+    .avatar{width:120px;height:120px;border-radius:16px;border:1px solid var(--border);overflow:hidden}
+    .name{font-size:clamp(22px,3.6vw,34px);font-weight:800;margin:0}
+    .title{margin:4px 0 8px;color:var(--muted)}
+    .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+    .chip{background:var(--chip);color:var(--chip-text);padding:4px 10px;border-radius:999px;font-size:12px;border:1px solid var(--border)}
+    nav{display:flex;flex-wrap:wrap;gap:16px;margin-top:8px}
+    .panel{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:18px;margin:18px 0}
+    .grid{display:grid;gap:16px}
+    @media(min-width:860px){ .grid.cols-2{grid-template-columns:1fr 1fr} }
+    h2{font-size:20px;margin:0 0 8px}
+    h3{font-size:16px;margin:0 0 6px}
+    .muted{color:var(--muted)}
+    .pub{padding:12px;border-bottom:1px dashed var(--border)}
+    .pub:last-child{border-bottom:none}
+    .pub .venue{font-weight:500}
+    .pub .authors{color:var(--muted)}
+    .pub .links{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
+    .pub .badge{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--tag);border:1px solid var(--border)}
+    .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+    .toolbar input, .toolbar select{background:transparent;color:var(--text);border:1px solid var(--border);padding:6px 10px;border-radius:10px}
+    .toolbar input::placeholder{color:var(--muted)}
+    .kicker{font-size:13px;color:var(--muted)}
+    footer{padding:30px 0;color:var(--muted);font-size:14px}
+    .kbd{padding:2px 6px;border:1px solid var(--border);border-bottom-width:2px;border-radius:6px;background:var(--panel);font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-size:12px}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+    .btn{border:1px solid var(--border);background:transparent;color:var(--text);padding:6px 10px;border-radius:10px;cursor:pointer}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="kicker">Last updated: <span id="updated"></span></div>
+      <div>
+        <button class="btn" id="modeBtn" title="Toggle theme">🌓 Theme</button>
+        <a class="btn" href="#publications">Jump to Publications</a>
+      </div>
+    </div>
+
+    <header>
+      <div class="avatar"><img src="assets/profile.jpg" alt="Portrait of TODO: Your Name"/></div>
+      <div>
+        <h1 class="name">TODO: Your Name</h1>
+        <div class="title">TODO: Current role and affiliation — e.g., Postdoctoral Researcher, University of X</div>
+        <nav>
+          <a href="mailto:TODO@uni.edu">Email</a>
+          <a href="https://scholar.google.com/">Google Scholar</a>
+          <a href="https://orcid.org/">ORCID</a>
+          <a href="https://github.com/">GitHub</a>
+          <a href="https://www.linkedin.com/">LinkedIn</a>
+          <a href="cv.pdf">CV (PDF)</a>
+        </nav>
+        <div class="chips">
+          <span class="chip">Documentary studies</span>
+          <span class="chip">Realist cinema</span>
+          <span class="chip">Visual anthropology</span>
+          <!-- Add more research interest chips -->
+        </div>
+      </div>
+    </header>
+
+    <section class="panel" id="about">
+      <h2>About</h2>
+      <p>
+        TODO: Short bio (3–5 sentences). Summarize your research focus, current projects, and any notable awards or roles.
+      </p>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="panel" id="news">
+        <h2>News</h2>
+        <ul>
+          <li><strong>2025‑08</strong> — TODO: Talk at Conference X.</li>
+          <li><strong>2025‑07</strong> — TODO: Paper accepted at Journal Y.</li>
+          <li><strong>2025‑05</strong> — TODO: Film screening at Venue Z.</li>
+        </ul>
+      </div>
+      <div class="panel" id="highlights">
+        <h2>Selected Links</h2>
+        <ul>
+          <li><a href="TODO">Project: This is Life</a></li>
+          <li><a href="TODO">Trailer: Bitter Sweet Ballad</a></li>
+          <li><a href="TODO">Public talk @ Oxford</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="panel" id="publications">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap">
+        <div>
+          <h2>Publications</h2>
+          <div class="kicker">Search, filter by type, and export BibTeX</div>
+        </div>
+        <div class="toolbar">
+          <input id="q" type="search" placeholder="Search title/venue/authors (e.g., 'documentary')" />
+          <select id="type">
+            <option value="all">All types</option>
+            <option value="journal">Journal</option>
+            <option value="conference">Conference</option>
+            <option value="book">Book / Chapter</option>
+            <option value="film">Film</option>
+          </select>
+          <button class="btn" id="export">Export BibTeX</button>
+        </div>
+      </div>
+      <div id="pubList"></div>
+    </section>
+
+    <section class="grid cols-2">
+      <div class="panel" id="teaching">
+        <h2>Teaching</h2>
+        <ul>
+          <li><strong>2025</strong> — Energy Economics (32 hours), Year‑1 Engineering (Syllabus: <a href="#">PDF</a>)</li>
+          <li><strong>2024</strong> — Documentary Aesthetics (Seminar)</li>
+        </ul>
+      </div>
+      <div class="panel" id="service">
+        <h2>Service</h2>
+        <ul>
+          <li>Reviewer — Studies in Documentary Film, Screen, etc.</li>
+          <li>Organizer — Workshop on AI‑Generated Film, 2025</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      © <span id="year"></span> TODO: Your Name • <a href="#">Imprint</a> • Built with vanilla HTML/CSS/JS
+      <div class="kicker">Tip: Press <span class="kbd">/</span> to focus search • Edit this page at <a href="https://github.com/">GitHub</a></div>
+    </footer>
+  </div>
+
+  <script>
+    // --- Small UX touches ---
+    const $ = (s, p=document) => p.querySelector(s)
+    const $$ = (s, p=document) => Array.from(p.querySelectorAll(s))
+    let pubs = [];
+
+    function render(list){
+      const el = $('#pubList')
+      el.innerHTML = ''
+      // group by year desc
+      const groups = {}
+      list.forEach(p => { (groups[p.year] ||= []).push(p) })
+      const years = Object.keys(groups).map(n=>+n).sort((a,b)=>b-a)
+      years.forEach(y => {
+        const yr = document.createElement('div')
+        yr.innerHTML = `<h3>${y}</h3>`
+        groups[y].forEach(p => {
+          const div = document.createElement('div')
+          div.className = 'pub'
+          div.innerHTML = `
+            <div class="venue"><span class="badge">${p.type}</span> ${p.title}</div>
+            <div class="authors">${p.authors}</div>
+            <div class="muted">${p.venue}</div>
+            <div class="links">${p.links.map(l=>`<a href="${l.url}" class="badge">${l.label}</a>`).join('')}</div>
+          `
+          yr.appendChild(div)
+        })
+        el.appendChild(yr)
+      })
+    }
+
+    function filter(){
+      const q = $('#q').value.toLowerCase().trim()
+      const t = $('#type').value
+      const out = pubs.filter(p =>
+        (t === 'all' || p.type === t) && (
+          !q || [p.title, p.venue, p.authors].join(' ').toLowerCase().includes(q)
+        )
+      )
+      render(out)
+    }
+
+    $('#q').addEventListener('input', filter)
+    $('#type').addEventListener('change', filter)
+    document.addEventListener('keydown', e => { if(e.key === '/' && document.activeElement !== $('#q')){ e.preventDefault(); $('#q').focus() }})
+
+    // BibTeX export
+    $('#export').addEventListener('click', () => {
+      const q = $('#q').value.toLowerCase().trim()
+      const t = $('#type').value
+      const out = pubs.filter(p => (t==='all'||p.type===t) && (!q || [p.title,p.venue,p.authors].join(' ').toLowerCase().includes(q)))
+      const blob = new Blob([out.map(p=>p.bibtex).join('\n\n')], {type:'text/plain'})
+      const a = document.createElement('a')
+      a.href = URL.createObjectURL(blob)
+      a.download = 'publications.bib'
+      a.click()
+      URL.revokeObjectURL(a.href)
+    })
+
+    // Theme toggle
+    const modeBtn = $('#modeBtn')
+    modeBtn.addEventListener('click', ()=>{
+      const light = document.documentElement.dataset.theme === 'light'
+      document.documentElement.dataset.theme = light ? 'dark' : 'light'
+    })
+
+    // Updated + year
+    $('#year').textContent = new Date().getFullYear()
+    $('#updated').textContent = new Date(document.lastModified).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'2-digit'})
+
+    // initial render
+    // initial render via external pubs.json
+    fetch('pubs.json')
+      .then(r => r.json())
+      .then(data => { pubs = data; render(pubs); })
+      .catch(err => { console.warn('Failed to load pubs.json, falling back to empty list.', err); render(pubs); });
+
+  </script>
+
+  <!-- Structured data (optional; fill in your details) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "TODO: Your Name",
+    "jobTitle": "TODO: Role",
+    "affiliation": {"@type": "Organization", "name": "TODO: Institution"},
+    "url": "https://TODO.github.io/",
+    "image": "https://TODO.github.io/assets/profile.jpg",
+    "sameAs": [
+      "https://orcid.org/TODO",
+      "https://scholar.google.com/citations?user=TODO",
+      "https://github.com/TODO"
+    ]
+  }
+  </script>
+</body>
+</html>

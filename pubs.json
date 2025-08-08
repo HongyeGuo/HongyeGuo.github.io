@@ -1,0 +1,677 @@
+[
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{面向需求响应的电力用户行为建模：研究现状与应用",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2023-4,\n  title = {{面向需求响应的电力用户行为建模：研究现状与应用},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{面向新型电力系统灵活性提升的调峰容量补偿机制设计",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2023-3,\n  title = {{面向新型电力系统灵活性提升的调峰容量补偿机制设计},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{面向可交易能源的储能容量合约机制设计与交易策略",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2018,\n  title = {{面向可交易能源的储能容量合约机制设计与交易策略},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{考虑虚拟电厂的电力系统灵活性提升方案研究",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2022-1,\n  title = {{考虑虚拟电厂的电力系统灵活性提升方案研究},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{考虑经济因素时滞效应的月度负荷预测方法",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2016,\n  title = {{考虑经济因素时滞效应的月度负荷预测方法},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{考虑可再生能源保障性消纳的电力市场出清机制",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2021-2,\n  title = {{考虑可再生能源保障性消纳的电力市场出清机制},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{电力现货市场建设进展与关键问题",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2021,\n  title = {{电力现货市场建设进展与关键问题},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{电力市场中的灵活调节服务:基本概念、均衡模型与研究方向",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2017-1,\n  title = {{电力市场中的灵活调节服务:基本概念、均衡模型与研究方向},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{欧洲跨国电力市场的输电机制与耦合方式",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2020-1,\n  title = {{欧洲跨国电力市场的输电机制与耦合方式},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{楼宇型虚拟电厂参与能量和灵活爬坡市场优化运行策略",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2024-1,\n  title = {{楼宇型虚拟电厂参与能量和灵活爬坡市场优化运行策略},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{新型电力系统的电碳耦合交易研究",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2025-1,\n  title = {{新型电力系统的电碳耦合交易研究},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{新型电力系统的“碳视角”:科学问题与研究框架",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2022,\n  title = {{新型电力系统的“碳视角”:科学问题与研究框架},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{新型电力系统中的规划运营与电力市场：研究进展与科研实践",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2024-3,\n  title = {{新型电力系统中的规划运营与电力市场：研究进展与科研实践},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{数据驱动的电力市场研究:挑战与展望",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2023,\n  title = {{数据驱动的电力市场研究:挑战与展望},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{我国电力零售市场商业套餐模式选择探究——电力零售套餐多维度影响因素分析及优化设计",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2024-2,\n  title = {{我国电力零售市场商业套餐模式选择探究——电力零售套餐多维度影响因素分析及优化设计},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{引入投资决策的电力容量市场均衡分析",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2020,\n  title = {{引入投资决策的电力容量市场均衡分析},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{市场环境下满足机组成本回收约束的电源规划方法",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2023-1,\n  title = {{市场环境下满足机组成本回收约束的电源规划方法},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{基于负荷台阶的工业需求响应用户优选方法",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2024,\n  title = {{基于负荷台阶的工业需求响应用户优选方法},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{基于标准化金融交割曲线的现货市场建设路径设计",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2017,\n  title = {{基于标准化金融交割曲线的现货市场建设路径设计},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{基于最优可调负荷模型的工业过程用电可行域建模方法",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2025,\n  title = {{基于最优可调负荷模型的工业过程用电可行域建模方法},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{基于主从博弈的共享储能定价策略及园区用户日前优化决策",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2023-2,\n  title = {{基于主从博弈的共享储能定价策略及园区用户日前优化决策},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{分散决策下的电力平衡机制分析与启示:以德国平衡结算单元为例",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2025-2,\n  title = {{分散决策下的电力平衡机制分析与启示:以德国平衡结算单元为例},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{储能参与电力市场机制：现状与展望",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2021-1,\n  title = {{储能参与电力市场机制：现状与展望},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{从澳大利亚现货市场暂停事件看电力市场紧急状态应对",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{__2022-2,\n  title = {{从澳大利亚现货市场暂停事件看电力市场紧急状态应对},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{中国特色、全国统一的电力市场关键问题研究(2)：我国跨区跨省电力交易市场的发展途径、交易品种与政策建议",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{_2_2020,\n  title = {{中国特色、全国统一的电力市场关键问题研究(2)：我国跨区跨省电力交易市场的发展途径、交易品种与政策建议},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{{从加州限电事故与美国WEIM机制看电力市场的融合协同",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{_weim_2021,\n  title = {{{从加州限电事故与美国WEIM机制看电力市场的融合协同},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{{LSTN",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{lyu_lstn_2023,\n  title = {{{LSTN},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Understanding bidding strategies of intermittent renewables in negative price environments: {A",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{tang_understanding_2025,\n  title = {{Understanding bidding strategies of intermittent renewables in negative price environments: {A},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Reinforcement {Learning",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{liu_reinforcement_2025,\n  title = {{Reinforcement {Learning},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Real-time operation strategy of virtual power plants with optimal power disaggregation among heterogeneous resources",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{chen_real-time_2024,\n  title = {{Real-time operation strategy of virtual power plants with optimal power disaggregation among heterogeneous resources},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Real-time capacity cost obligations design in high-renewables energy markets",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{fang_real-time_2024,\n  title = {{Real-time capacity cost obligations design in high-renewables energy markets},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Production {Scheduling",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{lyu_production_2025,\n  title = {{Production {Scheduling},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Power {Market",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{yang_power_2019-1,\n  title = {{Power {Market},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Power market reform in {China",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_power_2020,\n  title = {{Power market reform in {China},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Optimal grid-forming {BESS",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{chen_optimal_2025,\n  title = {{Optimal grid-forming {BESS},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Multi-{Market",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{tang_multi-market_2022,\n  title = {{Multi-{Market},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Modeling {Strategic",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_modeling_2020,\n  title = {{Modeling {Strategic},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Market {Power",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_market_2019,\n  title = {{Market {Power},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Market {Mechanism",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{li_market_2023,\n  title = {{Market {Mechanism},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Market equilibrium analysis with high penetration of renewables and gas-fired generation: {An",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_market_2018,\n  title = {{Market equilibrium analysis with high penetration of renewables and gas-fired generation: {An},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Forecasting individual bids in real electricity markets through machine learning framework",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{tang_forecasting_2024,\n  title = {{Forecasting individual bids in real electricity markets through machine learning framework},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Forecast {Aggregated",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_forecast_2021,\n  title = {{Forecast {Aggregated},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Federated fuzzy k-means for privacy-preserving behavior analysis in smart grids",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{wang_federated_2023,\n  title = {{Federated fuzzy k-means for privacy-preserving behavior analysis in smart grids},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Evaluating the impacts of {VPPs",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{guo_evaluating_2017,\n  title = {{Evaluating the impacts of {VPPs},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Electricity {Market",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{chen_electricity_2017,\n  title = {{Electricity {Market},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Electricity wholesale market equilibrium analysis integrating individual risk-averse features of generation companies",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_electricity_2019,\n  title = {{Electricity wholesale market equilibrium analysis integrating individual risk-averse features of generation companies},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Efficient {Scheduling",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{lyu_efficient_2025,\n  title = {{Efficient {Scheduling},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Efficiency {Loss",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_efficiency_2020,\n  title = {{Efficiency {Loss},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Deep {Inverse",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_deep_2021,\n  title = {{Deep {Inverse},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Deep {Differentiable",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{liu_deep_2024,\n  title = {{Deep {Differentiable},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Data-{Driven",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{lyu_data-driven_2025,\n  title = {{Data-{Driven},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Data-{Driven",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{song_data-driven_2023,\n  title = {{Data-{Driven},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Cost recovery and investment barriers for renewables under market manipulation of thermal collusion",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{fang_cost_2021,\n  title = {{Cost recovery and investment barriers for renewables under market manipulation of thermal collusion},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Coordinating {Air",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{su_coordinating_2024,\n  title = {{Coordinating {Air},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Constraining the oligopoly manipulation in electricity market: {A",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_constraining_2020,\n  title = {{Constraining the oligopoly manipulation in electricity market: {A},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Connection-aware {P2P",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{feng_connection-aware_2025,\n  title = {{Connection-aware {P2P},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Computation-{Power",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{li_computation-power_2024,\n  title = {{Computation-{Power},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Combining {AI",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{chen_combining_2025,\n  title = {{Combining {AI},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Co-{Optimizing",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{lyu_co-optimizing_2023,\n  title = {{Co-{Optimizing},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Bidding strategy evolution analysis based on multi-task inverse reinforcement learning",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{tang_bidding_2022,\n  title = {{Bidding strategy evolution analysis based on multi-task inverse reinforcement learning},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{Bidding behaviors of {GENCOs",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_bidding_2022,\n  title = {{Bidding behaviors of {GENCOs},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{Approximating {Energy",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{lyu_approximating_2024,\n  title = {{Approximating {Energy},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{An {Incentive",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{luo_incentive-compatible_2024,\n  title = {{An {Incentive},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{An efficient and incentive-compatible market design for energy storage participation",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{fang_efficient_2022,\n  title = {{An efficient and incentive-compatible market design for energy storage participation},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "{A {Marginal",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{tang_marginal_2023,\n  title = {{A {Marginal},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{A {Data",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_data-driven_2020,\n  title = {{A {Data},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{A {Data",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{zheng_data-driven_2023,\n  title = {{A {Data},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{A monthly electricity consumption forecasting method based on vector error correction model and self-adaptive screening method",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{guo_monthly_2018,\n  title = {{A monthly electricity consumption forecasting method based on vector error correction model and self-adaptive screening method},\n}"
+  },
+  {
+    "type": "journal",
+    "year": 0,
+    "title": "{A mixed-integer programming approach for industrial non-intrusive load monitoring",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@article{li_mixed-integer_2023,\n  title = {{A mixed-integer programming approach for industrial non-intrusive load monitoring},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{fang_strategic_2019,\n  address = {{Atlanta},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{liu_optimal_2016,\n  address = {{Melbourne},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{guo_market-power-controlled_2018,\n  address = {{Portland},\n}"
+  },
+  {
+    "type": "conference",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "",
+    "links": [],
+    "bibtex": "@inproceedings{yang_power_2019,\n  address = {{Beijing},\n}"
+  },
+  {
+    "type": "book",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "{Singapore",
+    "links": [],
+    "bibtex": "@incollection{chen_learning_2021,\n  address = {{Singapore},\n}"
+  },
+  {
+    "type": "book",
+    "year": 0,
+    "title": "",
+    "authors": "",
+    "venue": "{Singapore",
+    "links": [],
+    "bibtex": "@incollection{feng_introduction_2025,\n  address = {{Singapore},\n}"
+  }
+]
